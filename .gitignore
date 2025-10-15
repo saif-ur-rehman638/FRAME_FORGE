@@ -14,12 +14,12 @@ temp_processing/
 output/*.png
 *.mp4
 
-# Large local models (kept outside git ideally)
-# models/**/diffusion_pytorch_model*.bin
-# models/**/diffusion_pytorch_model*.safetensors
-# models/**/pytorch_model*.bin
-# models/**/model.safetensors
-# models/**/safetensors*
+Large local models (kept outside git ideally)
+models/**/diffusion_pytorch_model*.bin
+models/**/diffusion_pytorch_model*.safetensors
+models/**/pytorch_model*.bin
+models/**/model.safetensors
+models/**/safetensors*
 
 # OS files
 .DS_Store
